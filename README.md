@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-My name is Menuk Fernando. I am a freelance front-end developer living in Sri Lanka. 📌
+I am Menuk Fernando. I am a freelance front-end developer living in Sri Lanka. 📌
 
 <img width="1000" alt="header_1" src="https://github.com/menukfernando/menukfernando/assets/100038759/2d18c47b-2490-47f8-af34-45607818b25a">
 
