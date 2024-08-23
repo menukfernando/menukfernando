@@ -48,7 +48,7 @@
     />
   </a>
 
-  <a href="https://instagram.com/menukk___" target="_blank">
+  <a href="https://instagram.com/menukfernandoo" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Menuk"
