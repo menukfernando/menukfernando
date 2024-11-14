@@ -109,7 +109,6 @@
   <a href="https://github.com/menukfernando">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=menukfernando&theme=radical&border=7F3FBF&background=0D1117"
-      alt="Menuk's GitHub streak"
     />
   </a>
 </p>
