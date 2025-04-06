@@ -61,6 +61,15 @@
 
 # About me
 
+### Contributions under multiple accounts
+
+- 🔧 Work account: [@fernandomenuk](https://github.com/fernandomenuk)
+- 🧠 Personal account: [@menukfernando](https://github.com/menukfernando)
+
+I contribute under both—feel free to check them out!
+
+<hr />
+
 <p>
   <img
     align="right"
